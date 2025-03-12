@@ -1,0 +1,27 @@
+body{
+    background-color: #2E0249;
+}
+
+
+.container{
+    width: 700px;
+    height: 700px;
+    margin: auto;
+}
+
+#cordinate{
+    width: 1px;
+    height: 1px;
+    margin-top: 50%;
+    margin-left: 50%;
+    background-color: black;
+    position:relative;
+}
+
+.heartElementContainer{
+    position: absolute;
+}
+
+.heartElementIcon{
+    fill: #F806CC;
+}
